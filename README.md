@@ -55,4 +55,4 @@ Ao iniciar o programa, será exibido um menu principal:
 
 ## 👩‍💻 Autoria
 
-Projeto desenvolvido para fins acadêmicos na disciplina de Estrutura de Dados.
+Projeto desenvolvido para fins acadêmicos na disciplina de Estrutura de Dados e analise de algoritmos
